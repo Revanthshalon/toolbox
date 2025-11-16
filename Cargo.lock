@@ -612,19 +612,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "toolbox"
-version = "0.1.0"
-dependencies = [
- "chrono",
- "config",
- "serde",
- "serde_json",
- "tower",
- "tracing-core",
- "uuid",
-]
-
-[[package]]
 name = "tower"
 version = "0.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -768,6 +755,19 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "76f218a38c84bcb33c25ec7059b07847d465ce0e0a76b995e134a45adcb6af76"
 dependencies = [
  "unicode-ident",
+]
+
+[[package]]
+name = "web-toolbox"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+ "config",
+ "serde",
+ "serde_json",
+ "tower",
+ "tracing-core",
+ "uuid",
 ]
 
 [[package]]
