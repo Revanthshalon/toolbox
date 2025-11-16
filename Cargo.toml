@@ -5,7 +5,7 @@ edition = "2024"
 description = "A library that helps setup web apps in axum."
 readme = "README.md"
 license = "MIT"
-license-file = "LICENSE.txt"
+license-file = "LICENSE"
 
 [lib]
 path = "src/lib.rs"
