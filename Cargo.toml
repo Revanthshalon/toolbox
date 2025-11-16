@@ -6,6 +6,7 @@ description = "A library that helps setup web apps in axum."
 readme = "README.md"
 license-file = "LICENSE"
 repository = "https://github.com/Revanthshalon/toolbox.git"
+exclude = [".github/*", ".cargo/*"]
 
 [lib]
 path = "src/lib.rs"
