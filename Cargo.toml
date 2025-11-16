@@ -5,6 +5,7 @@ edition = "2024"
 description = "A library that helps setup web apps in axum."
 readme = "README.md"
 license-file = "LICENSE"
+repository = "https://github.com/Revanthshalon/toolbox.git"
 
 [lib]
 path = "src/lib.rs"
