@@ -4,7 +4,6 @@ version = "0.1.0"
 edition = "2024"
 description = "A library that helps setup web apps in axum."
 readme = "README.md"
-license = "MIT"
 license-file = "LICENSE"
 
 [lib]
